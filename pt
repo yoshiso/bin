@@ -1,0 +1,2 @@
+#!/bin/sh
+run -e PAPERTRAIL_API_TOKEN=$PAPERTRAIL_API_TOKEN yoshiso/papertrail -f -d 1 -- "$@"
