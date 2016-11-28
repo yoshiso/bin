@@ -1,1 +1,1 @@
-run yoshiso/curl $@
+run yoshiso/curl "$@"
